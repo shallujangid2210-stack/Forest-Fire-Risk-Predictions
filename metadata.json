@@ -1,0 +1,6 @@
+{
+  "name": "ForestGuard – Forest Fire Risk Prediction & Monitoring System",
+  "description": "College hackathon forest fire risk prediction and monitoring platform featuring early warnings, interactive Leaflet risk map, animal movement anomalies, solar offline beacons, and audio alarm system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
